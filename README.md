@@ -1,5 +1,17 @@
 # 100chuiExtract
+
+
+#安装油猴后复制打开
+chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=new-user-script+editor
+
+#将chui.js代码复制过去
+
+
+
+
+
+
+
+
 锤子简历 提取为PNG PDF
-
-
-#在编辑页面执行此脚本
+编辑页面会执行此脚本
